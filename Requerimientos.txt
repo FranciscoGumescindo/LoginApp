@@ -1,0 +1,7 @@
+Instalar los siguientes requerimientos para hacer funcionar este proyecto..
+-Django
+-bootstrap4
+-django-crispy-forms
+-pip
+-pytz
+-setuptools
